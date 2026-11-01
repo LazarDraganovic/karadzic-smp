@@ -1,0 +1,86 @@
+{
+  "type": "draconicevolution:fusion_crafting",
+  "catalyst": {
+    "item": "projectexpansion:blue_relay"
+  },
+  "ingredients": [
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:cyan_matter_block"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:cyan_matter_block"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:cyan_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:cyan_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:cyan_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:cyan_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:cyan_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:cyan_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:cyan_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:cyan_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:cyan_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:cyan_matter"
+      }
+    }
+  ],
+  "result": {
+    "id": "projectexpansion:cyan_relay",
+    "count": 1
+  },
+  "techLevel": "chaotic",
+  "totalEnergy": 2000000000
+}

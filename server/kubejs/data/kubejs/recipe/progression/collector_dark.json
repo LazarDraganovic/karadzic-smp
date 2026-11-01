@@ -1,0 +1,86 @@
+{
+  "type": "draconicevolution:fusion_crafting",
+  "catalyst": {
+    "item": "projectexpansion:basic_collector"
+  },
+  "ingredients": [
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projecte:dark_matter_block"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projecte:dark_matter_block"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projecte:dark_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projecte:dark_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projecte:dark_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projecte:dark_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projecte:dark_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projecte:dark_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projecte:dark_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projecte:dark_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projecte:dark_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projecte:dark_matter"
+      }
+    }
+  ],
+  "result": {
+    "id": "projectexpansion:dark_collector",
+    "count": 1
+  },
+  "techLevel": "chaotic",
+  "totalEnergy": 2000000000
+}

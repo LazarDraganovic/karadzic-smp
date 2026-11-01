@@ -1,0 +1,318 @@
+{
+  "comment": "EMC for DE / TF / endgame ingredients (base values anchored to vanilla EMC)",
+  "groups": {
+    "de_base": {
+      "conversions": [
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "draconicevolution:draconium_ingot"
+          },
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "minecraft:diamond",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "draconicevolution:draconium_dust"
+          },
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "draconicevolution:draconium_ingot",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "draconicevolution:draconium_block"
+          },
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "draconicevolution:draconium_ingot",
+              "amount": 9
+            }
+          ]
+        },
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "draconicevolution:awakened_draconium_ingot"
+          },
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "draconicevolution:draconium_ingot",
+              "amount": 4
+            },
+            {
+              "type": "projecte:item",
+              "id": "minecraft:nether_star",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "draconicevolution:awakened_draconium_block"
+          },
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "draconicevolution:awakened_draconium_ingot",
+              "amount": 9
+            }
+          ]
+        },
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "draconicevolution:chaos_shard"
+          },
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "minecraft:nether_star",
+              "amount": 8
+            }
+          ]
+        },
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "draconicevolution:large_chaos_frag"
+          },
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "draconicevolution:chaos_shard",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "draconicevolution:medium_chaos_frag"
+          },
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "minecraft:nether_star",
+              "amount": 2
+            }
+          ]
+        },
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "draconicevolution:small_chaos_frag"
+          },
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "minecraft:nether_star",
+              "amount": 1
+            }
+          ]
+        }
+      ]
+    },
+    "de_cores": {
+      "conversions": [
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "draconicevolution:draconium_core"
+          },
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "minecraft:gold_ingot",
+              "amount": 4
+            },
+            {
+              "type": "projecte:item",
+              "id": "minecraft:diamond",
+              "amount": 1
+            },
+            {
+              "type": "projecte:item",
+              "id": "draconicevolution:draconium_ingot",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "draconicevolution:wyvern_core"
+          },
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "draconicevolution:draconium_ingot",
+              "amount": 4
+            },
+            {
+              "type": "projecte:item",
+              "id": "draconicevolution:draconium_core",
+              "amount": 4
+            },
+            {
+              "type": "projecte:item",
+              "id": "minecraft:nether_star",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "draconicevolution:awakened_core"
+          },
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "draconicevolution:wyvern_core",
+              "amount": 4
+            },
+            {
+              "type": "projecte:item",
+              "id": "draconicevolution:awakened_draconium_ingot",
+              "amount": 4
+            },
+            {
+              "type": "projecte:item",
+              "id": "minecraft:nether_star",
+              "amount": 1
+            },
+            {
+              "type": "projecte:item",
+              "id": "twilightforest:giant_sword",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "draconicevolution:chaotic_core"
+          },
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "draconicevolution:awakened_core",
+              "amount": 4
+            },
+            {
+              "type": "projecte:item",
+              "id": "draconicevolution:large_chaos_frag",
+              "amount": 4
+            },
+            {
+              "type": "projecte:item",
+              "id": "draconicevolution:awakened_draconium_ingot",
+              "amount": 4
+            }
+          ]
+        }
+      ]
+    },
+    "tf_loot": {
+      "conversions": [
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "twilightforest:carminite"
+          },
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "minecraft:diamond",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "twilightforest:fiery_blood"
+          },
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "minecraft:nether_star",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "twilightforest:lamp_of_cinders"
+          },
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "minecraft:nether_star",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "twilightforest:giant_sword"
+          },
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "minecraft:nether_star",
+              "amount": 8
+            }
+          ]
+        }
+      ]
+    },
+    "other_endgame": {
+      "conversions": [
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "mekanism:pellet_antimatter"
+          },
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "minecraft:nether_star",
+              "amount": 8
+            }
+          ]
+        },
+        {
+          "output": {
+            "type": "projecte:item",
+            "id": "enderio:infinity_rod"
+          },
+          "ingredients": [
+            {
+              "type": "projecte:item",
+              "id": "minecraft:nether_star",
+              "amount": 4
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

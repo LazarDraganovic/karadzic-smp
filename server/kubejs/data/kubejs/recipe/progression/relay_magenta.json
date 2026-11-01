@@ -1,0 +1,86 @@
+{
+  "type": "draconicevolution:fusion_crafting",
+  "catalyst": {
+    "item": "projectexpansion:red_relay"
+  },
+  "ingredients": [
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:magenta_matter_block"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:magenta_matter_block"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:magenta_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:magenta_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:magenta_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:magenta_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:magenta_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:magenta_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:magenta_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:magenta_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:magenta_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:magenta_matter"
+      }
+    }
+  ],
+  "result": {
+    "id": "projectexpansion:magenta_relay",
+    "count": 1
+  },
+  "techLevel": "chaotic",
+  "totalEnergy": 2000000000
+}

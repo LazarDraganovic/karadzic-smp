@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CCC",
+    "CMC",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "draconicevolution:chaotic_core"
+    },
+    "M": {
+      "item": "projecte:condenser_mk2"
+    }
+  },
+  "result": {
+    "id": "projectexpansion:condenser_mk3",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "RRR",
+    "RDR",
+    "RRR"
+  ],
+  "key": {
+    "R": {
+      "item": "projecte:red_matter"
+    },
+    "D": {
+      "item": "projecte:dm_leggings"
+    }
+  },
+  "result": {
+    "id": "projecte:rm_leggings",
+    "count": 1
+  }
+}

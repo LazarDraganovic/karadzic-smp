@@ -1,0 +1,86 @@
+{
+  "type": "draconicevolution:fusion_crafting",
+  "catalyst": {
+    "item": "projectexpansion:cyan_collector"
+  },
+  "ingredients": [
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:green_matter_block"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:green_matter_block"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:green_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:green_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:green_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:green_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:green_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:green_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:green_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:green_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:green_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:green_matter"
+      }
+    }
+  ],
+  "result": {
+    "id": "projectexpansion:green_collector",
+    "count": 1
+  },
+  "techLevel": "chaotic",
+  "totalEnergy": 2000000000
+}

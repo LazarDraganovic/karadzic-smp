@@ -1,0 +1,50 @@
+{
+  "type": "draconicevolution:fusion_crafting",
+  "catalyst": {
+    "item": "draconicevolution:draconium_chest"
+  },
+  "ingredients": [
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projecte:dark_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projecte:dark_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "minecraft:nether_star"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "minecraft:nether_star"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "ironchest:obsidian_chest"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "ironchest:obsidian_chest"
+      }
+    }
+  ],
+  "result": {
+    "id": "projecte:condenser_mk1",
+    "count": 1
+  },
+  "techLevel": "wyvern",
+  "totalEnergy": 8000000
+}

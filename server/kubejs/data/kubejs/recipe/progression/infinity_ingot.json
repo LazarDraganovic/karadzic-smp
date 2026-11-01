@@ -1,0 +1,45 @@
+{
+  "type": "avaritia:shaped_table",
+  "result": {
+    "id": "avaritia:infinity_ingot",
+    "count": 1
+  },
+  "pattern": [
+    "NFATMTAFN",
+    "ECXXCXXCE",
+    "MXCCXCCXM",
+    "ECXXCXXCE",
+    "NFATMTAFN",
+    "         ",
+    "         ",
+    "         ",
+    "         "
+  ],
+  "key": {
+    "N": {
+      "item": "avaritia:neutron_ingot"
+    },
+    "C": {
+      "item": "avaritia:crystal_matrix_ingot"
+    },
+    "X": {
+      "item": "avaritia:infinity_catalyst"
+    },
+    "F": {
+      "item": "projectexpansion:fading_matter_block"
+    },
+    "A": {
+      "item": "draconicevolution:chaotic_core"
+    },
+    "T": {
+      "item": "twilightforest:lamp_of_cinders"
+    },
+    "M": {
+      "item": "mekanism:pellet_antimatter"
+    },
+    "E": {
+      "item": "enderio:infinity_rod"
+    }
+  },
+  "tier": 4
+}

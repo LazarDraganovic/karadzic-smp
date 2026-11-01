@@ -1,0 +1,86 @@
+{
+  "type": "draconicevolution:fusion_crafting",
+  "catalyst": {
+    "item": "projectexpansion:green_collector"
+  },
+  "ingredients": [
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:lime_matter_block"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:lime_matter_block"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:lime_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:lime_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:lime_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:lime_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:lime_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:lime_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:lime_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:lime_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:lime_matter"
+      }
+    },
+    {
+      "consume": true,
+      "ingredient": {
+        "item": "projectexpansion:lime_matter"
+      }
+    }
+  ],
+  "result": {
+    "id": "projectexpansion:lime_collector",
+    "count": 1
+  },
+  "techLevel": "chaotic",
+  "totalEnergy": 2000000000
+}

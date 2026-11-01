@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " M ",
+    "MNM",
+    " S "
+  ],
+  "key": {
+    "M": {
+      "item": "projecte:dark_matter"
+    },
+    "N": {
+      "item": "minecraft:shears"
+    },
+    "S": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "id": "projecte:dm_shears",
+    "count": 1
+  }
+}
