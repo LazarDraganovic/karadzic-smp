@@ -4,8 +4,8 @@ Minecraft **1.21.1** · NeoForge **21.1.265** · приватный сервер
 
 - IP: **5.9.235.227:25586**
 - Сайт: https://lazardraganovic.github.io/karadzic-smp/
-- Клиент: [KaradzicSMP-client.zip](https://github.com/LazarDraganovic/karadzic-smp/releases/download/v1.0/KaradzicSMP-client.zip)
-- Сервер: [KaradzicSMP-server.zip](https://github.com/LazarDraganovic/karadzic-smp/releases/download/v1.0/KaradzicSMP-server.zip)
+- Клиент: [KaradzicSMP-client.zip](https://github.com/LazarDraganovic/karadzic-smp/releases/download/v1.1/KaradzicSMP-client.zip)
+- Сервер: [KaradzicSMP-server.zip](https://github.com/LazarDraganovic/karadzic-smp/releases/download/v1.1/KaradzicSMP-server.zip)
 
 ## Клиент
 
